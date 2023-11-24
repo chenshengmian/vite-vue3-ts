@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "homepage": "../../components/Homepage/Homepage",
+    "shoppingcart": "../../components/Shoppingcart/Shoppingcart",
+    "tm-app": "../../tmui/components/tm-app/tm-app",
+    "tm-tabbar": "../../tmui/components/tm-tabbar/tm-tabbar",
+    "tm-tabbar-item": "../../tmui/components/tm-tabbar-item/tm-tabbar-item",
+    "personal-center": "../../components/PersonalCenter/PersonalCenter"
+  }
+}

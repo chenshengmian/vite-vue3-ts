@@ -1,0 +1,16 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tm-drawer": "../tm-drawer/tm-drawer",
+    "tm-button": "../tm-button/tm-button",
+    "tm-text": "../tm-text/tm-text",
+    "tm-divider": "../tm-divider/tm-divider",
+    "tm-tag": "../tm-tag/tm-tag",
+    "tm-sheet": "../tm-sheet/tm-sheet",
+    "tm-image": "../tm-image/tm-image",
+    "tm-stepper": "../tm-stepper/tm-stepper",
+    "tm-radio-group": "../tm-radio-group/tm-radio-group",
+    "tm-radio": "../tm-radio/tm-radio",
+    "tm-badge": "../tm-badge/tm-badge"
+  }
+}

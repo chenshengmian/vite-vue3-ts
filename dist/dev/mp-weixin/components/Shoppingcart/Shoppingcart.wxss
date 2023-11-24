@@ -1,0 +1,6 @@
+
+.cart.data-v-1f9b9e23 {
+  display: flex;
+  justify-content: space-between;
+  padding: 30rpx;
+}

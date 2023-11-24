@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tm-text": "../tm-text/tm-text",
+    "tm-sheet": "../tm-sheet/tm-sheet",
+    "tm-row": "../tm-row/tm-row",
+    "tm-col": "../tm-col/tm-col",
+    "tm-icon": "../tm-icon/tm-icon"
+  }
+}

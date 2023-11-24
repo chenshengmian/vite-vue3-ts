@@ -1,0 +1,15 @@
+
+.aniRow.data-v-4d97c72b {
+	animation-name: roll-4d97c72b;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+}
+@keyframes roll-4d97c72b {
+0% {
+		transform: translateX(0);
+}
+100% {
+		transform: translateX(-100%);
+}
+}
+

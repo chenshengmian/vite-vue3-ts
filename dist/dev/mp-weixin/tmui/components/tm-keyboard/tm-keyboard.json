@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tm-drawer": "../tm-drawer/tm-drawer",
+    "keyboard-number": "./keyboard-number",
+    "keyboard-card": "./keyboard-card",
+    "keyboard-pass": "./keyboard-pass",
+    "keyboard-car": "./keyboard-car"
+  }
+}

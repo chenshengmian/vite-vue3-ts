@@ -1,0 +1,17 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tm-app": "../../tmui/components/tm-app/tm-app",
+    "tm-input": "../../tmui/components/tm-input/tm-input",
+    "tm-sheet": "../../tmui/components/tm-sheet/tm-sheet",
+    "tm-button": "../../tmui/components/tm-button/tm-button",
+    "tm-codeinput": "../../tmui/components/tm-codeinput/tm-codeinput",
+    "tm-keyboard": "../../tmui/components/tm-keyboard/tm-keyboard",
+    "tm-avatar": "../../tmui/components/tm-avatar/tm-avatar",
+    "tm-form-item": "../../tmui/components/tm-form-item/tm-form-item",
+    "tm-form": "../../tmui/components/tm-form/tm-form",
+    "tm-row": "../../tmui/components/tm-row/tm-row",
+    "tm-col": "../../tmui/components/tm-col/tm-col",
+    "tm-cell": "../../tmui/components/tm-cell/tm-cell"
+  }
+}

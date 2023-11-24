@@ -1,0 +1,13 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tm-app": "../../tmui/components/tm-app/tm-app",
+    "tm-text": "../../tmui/components/tm-text/tm-text",
+    "tm-waterfall": "../../tmui/components/tm-waterfall/tm-waterfall",
+    "tm-waterfall-item": "../../tmui/components/tm-waterfall-item/tm-waterfall-item",
+    "tm-carousel": "../../tmui/components/tm-carousel/tm-carousel",
+    "tm-roll-notice": "../../tmui/components/tm-roll-notice/tm-roll-notice",
+    "tm-tabs": "../../tmui/components/tm-tabs/tm-tabs",
+    "tm-sku": "../../tmui/components/tm-sku/tm-sku"
+  }
+}
